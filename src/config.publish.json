@@ -1,6 +1,6 @@
 {
     "environment": "publishing",
-    "managementApiUrl": "https://<service-name>.management.azure-api.net",
-    "managementApiAccessToken": "SharedAccessSignature...",
+    "managementApiUrl": "https://esendex-dev.management.azure-api.net",
+    "managementApiAccessToken": "SharedAccessSignature integration&20240608153603&4gRyl4swiM1NwPByjtnmv1g+3xk/zhMn7Q3PTtuAZzhKnkpXbzKYu7o0D2+Sz2sjOu2gqNrRcAbSQkLJK6SlWw==",
     "useHipCaptcha": false
 }

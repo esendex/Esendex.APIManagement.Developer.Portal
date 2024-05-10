@@ -1,12 +1,12 @@
 {
     "environment": "development",
-    "managementApiUrl": "https://<service-name>.management.azure-api.net",
-    "managementApiAccessToken": "SharedAccessSignature ...",
-    "backendUrl": "https://<service-name>.developer.azure-api.net",
+    "managementApiUrl": "https://esendex-dev.management.azure-api.net",
+    "managementApiAccessToken": "SharedAccessSignature integration&20240608153603&4gRyl4swiM1NwPByjtnmv1g+3xk/zhMn7Q3PTtuAZzhKnkpXbzKYu7o0D2+Sz2sjOu2gqNrRcAbSQkLJK6SlWw==",
+    "backendUrl": "https://console-dev.esendex.com",
     "useHipCaptcha": false,
     "integration": {
         "googleFonts": {
-            "apiKey": "<Google API Key>"
+            "apiKey": "AIzaSyDXp_B1eOD5lm9R9NPNe_doeWdfDKqiXcI"
         }
     }
 }
